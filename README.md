@@ -12,7 +12,7 @@
 ## 📑 Blogs e Portais
 * [Pedal.com.br](https://www.pedal.com.br/)
 * [PraquemPedala](http://www.praquempedala.com.br)
-* [Segredos do Ciclismo](https://segredosdociclismo.com/)
+* [Segredos do Ciclismo](https://segredosdociclismo.com/blog/)
 
 ## Youtube
 
