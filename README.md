@@ -15,6 +15,7 @@
 * [Segredos do Ciclismo](https://segredosdociclismo.com/blog/)
 
 ## Youtube
+* [Revista Bike Ride](https://www.youtube.com/channel/UCaA5e9PJXY3Ci57AP96OUWg)
 
 ## Fóruns
 * [Pedal](https://www.pedal.com.br/forum/forums.html) Fórum do Pedal
