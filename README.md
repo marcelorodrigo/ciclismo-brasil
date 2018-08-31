@@ -6,7 +6,7 @@
 * [Garmin Connect](https://connect.garmin.com/) 
 
 ## :sweat_drops: Treinamento
-* [TrainingPeaks](https://www.trainingpeaks.com/)
+* [Training Peaks](https://www.trainingpeaks.com/)
 * [Strava](https://strava.com)
 
 ## :newspaper: Blogs e Portais
@@ -32,7 +32,6 @@
 * [Relive](https://www.relive.cc/) - Gera um vídeo bacana com visão aérea da sua pedalada para compartilhar nas rede sociais
 * [tapiriik](https://tapiriik.com/) - Sincroniza suas atividades entre Strava, Garmin e inúmeros outro sites
 * [Strava Labs](http://labs.strava.com/)
-
 
 ## :video_game: Treino Indoor
 * [Zwift](https://zwift.com/)
