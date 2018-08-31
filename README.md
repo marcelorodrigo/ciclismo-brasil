@@ -15,7 +15,7 @@
 * [Segredos do Ciclismo](https://segredosdociclismo.com/blog/)
 
 ## :tv: Youtube
-* [Ciclismo Expert] (https://www.youtube.com/channel/UCxGhWcTwtLEY7V2-yZpp1_w)
+* [Ciclismo Expert](https://www.youtube.com/channel/UCxGhWcTwtLEY7V2-yZpp1_w)
 * [Revista Bike Ride](https://www.youtube.com/channel/UCaA5e9PJXY3Ci57AP96OUWg)
 
 ## :notebook: Fóruns
