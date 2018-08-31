@@ -17,6 +17,7 @@
 ## :tv: Youtube
 * [Ciclismo Expert](https://www.youtube.com/channel/UCxGhWcTwtLEY7V2-yZpp1_w)
 * [Revista Bike Ride](https://www.youtube.com/channel/UCaA5e9PJXY3Ci57AP96OUWg)
+* [Segredos do Mountain Bike](https://www.youtube.com/channel/UCHX1x5Zw3sVEZKH8Q9CunFg)
 
 ## :notebook: Fóruns
 * [Pedal](https://www.pedal.com.br/forum/forums.html) Fórum do Pedal
