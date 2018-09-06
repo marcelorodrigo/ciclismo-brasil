@@ -24,6 +24,7 @@
 * [Beco da Bike - Deviante](http://www.deviante.com.br/podcasts/beco-da-bike/)
 * [Pedarilhos](http://www.pedarilhos.com.br/blog/categoria/podcast/)
 * [Radio Corsa](http://radiocorsa.com.br/)
+* [The Bike Nerds](http://www.thebikenerdspodcast.com/) :us: Podcast com entrevistas e conversas sobre como a bicicleta pode tornar as cidades melhores
 * [The Bike Show](http://thebikeshow.net/) :us: Podcast mais famoso do mundo do ciclismo, no ar desde 2004
 
 ## :notebook: Fóruns
