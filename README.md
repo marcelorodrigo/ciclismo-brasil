@@ -23,6 +23,7 @@
 ## :headphones: Posdcasts
 * [Beco da Bike - Deviante](http://www.deviante.com.br/podcasts/beco-da-bike/)
 * [Pedarilhos](http://www.pedarilhos.com.br/blog/categoria/podcast/)
+* [Radio Corsa](http://radiocorsa.com.br/)
 
 ## :notebook: Fóruns
 * [Pedal](https://www.pedal.com.br/forum/forums.html) Fórum do Pedal
