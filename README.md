@@ -10,6 +10,7 @@
 * [Strava](https://strava.com)
 
 ## :newspaper: Blogs e Portais
+* [Eu vou de bike](http://www.euvoudebike.com/)
 * [Pedal.com.br](https://www.pedal.com.br/)
 * [Pra quem Pedala](http://www.praquempedala.com.br)
 * [Segredos do Ciclismo](https://segredosdociclismo.com/blog/)
@@ -18,6 +19,9 @@
 * [Ciclismo Expert](https://www.youtube.com/channel/UCxGhWcTwtLEY7V2-yZpp1_w)
 * [Revista Ride Bike](https://www.youtube.com/channel/UCaA5e9PJXY3Ci57AP96OUWg)
 * [Segredos do Mountain Bike](https://www.youtube.com/channel/UCHX1x5Zw3sVEZKH8Q9CunFg)
+
+## :headphones: Posdcasts
+* [Beco da Bike - Deviante](http://www.deviante.com.br/podcasts/beco-da-bike/)
 
 ## :notebook: Fóruns
 * [Pedal](https://www.pedal.com.br/forum/forums.html) Fórum do Pedal
